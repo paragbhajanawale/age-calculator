@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim', cursive;
+    }
+    .container{
+        margin-left: 300px;
+        margin-top: 300px;
+    background-color: #0E2F2F;
+    width: 500px;
+    font-family: 'Itim', cursive;
+    }
+    h3{
+        color: darkorange;
+        font-weight: bolder;
+        font-size: larger;
+        text-align: center;
+        text-shadow: 2px 2px 1px rgb(91, 92, 95);
+    }
+    #age{
+        margin-left: 150px;
+    }
+    button{
+        margin-left: 150px;
+        background-color: rgb(247, 173, 82);
+        background-color: rgb(83, 83, 82);
+        border-radius: 20px;
+
+    }
+    #reset{
+        margin-left: 15px;
+    }
+   p{
+    margin-left: 150px;
+   }
+   nav{
+    margin-left: 200px;
+    word-spacing: 10px;
+   }
